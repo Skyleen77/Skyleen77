@@ -11,8 +11,6 @@ Hi, I'm **Elliot Sutton**.
 I'm a full stack web developer.
 I am currently freelancing
 
-<br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
