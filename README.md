@@ -1,5 +1,10 @@
 # [Elliot Sutton](https://elliot-sutton.com) | [Skyleen77](https://skyleen.fr)
 
+Hi, I'm **Elliot Sutton**.
+
+I'm a full stack web developer.
+I am currently freelancing
+
 [![Visits Badge](https://badges.pufler.dev/visits/Skyleen77/Skyleen77)](https://elliot-sutton.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/elliot-sutton/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/Skyyy77)
