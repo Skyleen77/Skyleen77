@@ -22,3 +22,9 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
 </details>
+
+<p>{office_quote}</p>
+
+<p>{office_character}</p>
+
+Check back at the top of the hour for a new quote!
