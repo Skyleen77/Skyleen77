@@ -10,7 +10,7 @@ Hi, I'm **Elliot Sutton**.
 
 I'm a full stack web developer.
 
-I am currently freelancing
+I am currently freelancing at [Skyleen](https://skyleen.fr)
 
 <br>
 
