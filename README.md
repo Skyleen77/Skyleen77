@@ -52,6 +52,10 @@ I am currently freelancing at [Skyleen](https://skyleen.fr)
 
 </details>
 
+<br>
+
+## 📈 Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skyleen77&show_icons=true&theme=light&locale=en&layout=compact" alt="skyleen77" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyleen77&show_icons=true&theme=light&locale=en" alt="skyleen77" /></p>
