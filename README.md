@@ -7,9 +7,13 @@
 
 Hi, I'm **Elliot Sutton**.
 
-I'm a full stack web developer.
+I'm a Full Stack Developer and UI/UX Designer.
 
-I am currently freelancing at [Skyleen](https://skyleen.fr)
+I am currently working at [DialOnce](https://dialonce.ai).
+
+I have worked on a number of open source projects, including :
+- **Animate UI** - an open source animated component distribution
+- **BProgress** - a lightweight progress bar for displaying loading during navigation
 
 <br>
 
