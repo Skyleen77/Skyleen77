@@ -15,3 +15,7 @@ I am currently working at [DialOnce](https://dialonce.ai).
 I have worked on a number of open source projects, including :
 - **Animate UI** - an open source animated component distribution
 - **BProgress** - a lightweight progress bar for displaying loading during navigation
+
+## Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vite,vue,tailwind,materialui,cypress,jest,prisma,postgres,mysql,mongodb,supabase,pnpm,npm,yarn,bun,docker,vercel,netlify,git,github,gitlab,vscode,postman,ai,figma)](https://skillicons.dev)
