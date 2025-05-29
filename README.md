@@ -12,7 +12,7 @@ I'm a Full Stack Developer and UI/UX Designer.
 
 I am currently working at [DialOnce](https://dialonce.ai).
 
-I have worked on a number of open source projects, including :
+I have created a number of open source projects, including :
 - **Animate UI** - an open source animated component distribution
 - **BProgress** - a lightweight progress bar for displaying loading during navigation
 
